@@ -1,16 +1,28 @@
-### Hi there 👋
+# Olá, eu sou o Dario! <img src="https://cdnb.artstation.com/p/assets/images/images/062/659/243/original/zkay_11-hollow-knight1.gif" width="40">
 
-<!--
-**darscun/darscun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Estudante de Sistemas de Informação @* [*Universidade de São Paulo*](https://www.usp.br). 🎓
 
-Here are some ideas to get you started:
+*~~Professor de inglês~~ English teacher* 💬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/dario-cunha-0497459a/"><img src="https://cdn-icons-png.flaticon.com/128/725/725337.png" width="25"></a>
+<a href="https://www.github.com/darscun"><img src="https://cdn-icons-png.flaticon.com/128/1322/1322053.png" width="25"></a>
+<a href="https://www.facebook.com/darioscunha"><img src="https://cdn-icons-png.flaticon.com/128/1322/1322034.png" width="25"></a>
+<a href="https://open.spotify.com/user/dario.s.cunha/"><img src="https://cdn-icons-png.flaticon.com/128/1322/1322057.png" width="25"></a>
+<a href="https://t.me/cunha"><img src="https://cdn-icons-png.flaticon.com/128/1322/1322069.png" width="25"></a>
+<a href="mailto:dario.s.cunha@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/324/324123.png" width="25"></a>
+
+☑️ Iniciante na área de computação, atualmente me dedicando a:
++ Aperfeiçoamento em linguagem C
++ Aprendizado de Git e GitHub
++ Aprendizado no software VS Code
++ Aperfeiçoamento do idioma espanhol  
+
+
+☑️ Próximos passos:
++ Início em linguagem Java
++ Aperfeiçoamento em linguagem python  
+<p>&nbsp;</p>
+
+> You have to make the right choice. As long as you don't choose, everything remains possible.
+> 
+> *Mr. Nobody (2009)*
