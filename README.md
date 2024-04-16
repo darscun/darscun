@@ -1,6 +1,6 @@
 # Olá, eu sou o Dario! <img src="https://cdnb.artstation.com/p/assets/images/images/062/659/243/original/zkay_11-hollow-knight1.gif" width="40">
 
-*Estudante de Sistemas de Informação @* [*Universidade de São Paulo*](https://www.usp.br). 🎓
+*Estudante de Sistemas de Informação @* [*Universidade de São Paulo*](https://www.usp.br) 🎓
 
 *~~Professor de inglês~~ English teacher* 💬
 
