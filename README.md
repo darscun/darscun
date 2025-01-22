@@ -12,15 +12,10 @@
 <a href="mailto:dario.s.cunha@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/324/324123.png" width="25"></a>
 
 ☑️ Iniciante na área de computação, atualmente me dedicando a:
-+ Aperfeiçoamento em linguagem C
-+ Aprendizado de Git e GitHub
-+ Aprendizado no software VS Code
-+ Aperfeiçoamento do idioma espanhol  
-
-
-☑️ Próximos passos:
-+ Início em linguagem Java
-+ Aperfeiçoamento em linguagem python  
++ Aperfeiçoamento em linguagem C e Python
++ Aprendizado de linguagen Java  
++ Aperfeiçoamento em Git e GitHub
++ Aperfeiçoamento do idioma espanhol
 <p>&nbsp;</p>
 
 > You have to make the right choice. As long as you don't choose, everything remains possible.
